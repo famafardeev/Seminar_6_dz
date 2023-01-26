@@ -1,0 +1,15 @@
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\bin\Debug\net6.0\Seminar 6. dz.exe
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\bin\Debug\net6.0\Seminar 6. dz.deps.json
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\bin\Debug\net6.0\Seminar 6. dz.runtimeconfig.json
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\bin\Debug\net6.0\Seminar 6. dz.dll
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\bin\Debug\net6.0\Seminar 6. dz.pdb
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.csproj.AssemblyReference.cache
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.AssemblyInfoInputs.cache
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.AssemblyInfo.cs
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.csproj.CoreCompileInputs.cache
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.dll
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\refint\Seminar 6. dz.dll
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.pdb
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\Seminar 6. dz.genruntimeconfig.cache
+C:\Users\Марат\Desktop\Обучение\введение в программирование\Seminar 6. dz\obj\Debug\net6.0\ref\Seminar 6. dz.dll
